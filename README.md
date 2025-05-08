@@ -23,7 +23,6 @@ novel techniques like **Few-Shot Learning**, **Meta-Learning** and **Matching Ne
 
 - ✉️ dhanya.eledath@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/dhanya-e)  
-- 🌐 [Personal Site (optional)](https://dhanya-e.github.io/)
 
 <!--
 **dhanya-e/dhanya-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
