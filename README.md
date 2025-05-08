@@ -4,7 +4,7 @@ Ph.D. in Automatic Speech Recognition (ASR) from [IIIT Bangalore](https://www.ii
 **Few-Shot Learning**, **Low-Resource Multilingual ASR**, and **Self-Supervised Speech Models**.
 
 My research addresses key challenges in building low-resource ASR systems for Indic languages using  
-novel techniques like **Few-Shot Learning **, **Meta-Learning ** and **Matching Networks with CTC (MN-CTC)**.
+novel techniques like **Few-Shot Learning**, **Meta-Learning** and **Matching Networks with CTC (MN-CTC)**.
 
 ## 🔧 Tech Stack
 
