@@ -10,7 +10,7 @@ novel techniques like **Few-Shot Learning**, **Meta-Learning** and **Matching Ne
 
 - **Languages:** Python, Bash, MATLAB, C  
 - **Frameworks:** PyTorch, Kaldi, ESPnet, NVIDIA NeMo, Fairseq, Hugging Face  
-- **Specialties:** End-to-End ASR, Few-Shot Learning, Wav2Vec, Whisper, SSL, MAML  
+- **Specialties:** End-to-End ASR, Few-Shot Learning, Self-supervised Learning 
 - **Tools:** Git, Linux, AWS, LaTeX
 
 ## 📰 Publications
@@ -22,7 +22,8 @@ novel techniques like **Few-Shot Learning**, **Meta-Learning** and **Matching Ne
 ## 📫 Contact
 
 - ✉️ dhanya.eledath@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/dhanya-e)  
+- 🔗 [LinkedIn](https://linkedin.com/in/dhanya-e)
+- 🌐 [Personal Site](https://github.com/dhanya-e)
 
 <!--
 **dhanya-e/dhanya-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
